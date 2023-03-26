@@ -10,5 +10,5 @@ Welcome to my Github page! I am a JavaScript developer from Myanmar
 
 ## Contacts
 
-- Discord: Retro#2448
+- Discord: [Click to join!](https://discord.com/invite/uWfMZYju8c)
 - Twitter: [Retro IG](https://twitter.com/Retro_IG231)
