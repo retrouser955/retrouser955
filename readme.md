@@ -6,7 +6,7 @@ Welcome to my Github page! I am a JavaScript developer from Myanmar
 
 ### My Github Stats
 
-![github stats](https://github-vercel-deployment-psi.vercel.app/api?username=retrouser955&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/retrouser955?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ## Contacts
 
