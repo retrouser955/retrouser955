@@ -1,8 +1,6 @@
 # Hello World!
 
-Welcome to my Github page! I am a JavaScript developer from Myanmar
-
-![retro_compressed](https://user-images.githubusercontent.com/70205403/195784028-bd33c888-2528-4d70-8d2a-81a58650a200.gif)
+Welcome to my Github page! I am a developer from Myanmar using mainly TypeScript. I am also learning other languages such as Go, Rust and Zig. Since you are here already, check out my work (notably [DisFlow](https://github.com/DisFlowTeam/disflow)).
 
 ### My Github Stats
 
